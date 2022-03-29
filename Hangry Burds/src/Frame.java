@@ -52,7 +52,7 @@ public class Frame extends JPanel implements ActionListener, MouseListener, KeyL
 
 	
 	//Brick[] bricks = {new Brick(300-24,350),new Brick(346-24,350), new Brick(438-24,350), new Brick(484-24,350)};
-	
+	 
 	
 	public void paint(Graphics g) {
 		super.paintComponent(g);
