@@ -71,7 +71,7 @@ public class Frame extends JPanel implements ActionListener, MouseListener, KeyL
 		Music M = new Music("Super Mario Bros. Theme Song.wav",false);
 		M.play();
 		
-		Frame f = new Frame();
+		Frame f = new Frame();  
 
 	}
 	
