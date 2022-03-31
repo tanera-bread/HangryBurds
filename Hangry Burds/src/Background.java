@@ -10,7 +10,7 @@ import java.net.URL;
 public class Background{
 	private Image img; 	
 	private AffineTransform tx;
-	private double x =0,y=0;
+	private double x = 0, y = 0;
 	private double scale =.12;
 	public Background(int x, int y) {
 		img = getImage("/imgs/GroundB.png"); //load the image for Tree

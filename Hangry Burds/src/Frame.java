@@ -20,30 +20,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-/*Comments
- * 
- * 
- * very yum
- * 
- * I like the terrain generation
- * 
- * nicep roject
- * legendary game 
- * vwery cool, cvan't beat boweser
- * 
- * good game but clouds spawn on the ground
- * very well made
- * w
- */
-
-
-/*
- * control
- * arrow keys to move
- * press down at pipe to go to boss fight
- * jump fast
- * I WONNNNNNNNNNNN
- */
 public class Frame extends JPanel implements ActionListener, MouseListener, KeyListener {
 
 	Background b = new Background(0,0);
