@@ -22,7 +22,7 @@ public class Bird{
 									//use your variables
 	}
 	
-	public void changePicture(String newFileName) {
+	public void changePicture(String newFileName) { 
 		img = getImage(newFileName);
 		update();
 	}
